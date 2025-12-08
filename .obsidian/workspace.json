@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Medium/Java/Building Dynamic Queries with JPA Specification in Spring Boot.md",
+                "file": "General/Medium/Java/Repository Hell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Building Dynamic Queries with JPA Specification in Spring Boot"
+              "title": "Repository Hell"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Medium/Java/Building Dynamic Queries with JPA Specification in Spring Boot.md",
+                "file": "General/Medium/Java/Repository Hell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Building Dynamic Queries with JPA Specification in Spring Boot"
+              "title": "Backlinks for Repository Hell"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Medium/Java/Building Dynamic Queries with JPA Specification in Spring Boot.md",
+                "file": "General/Medium/Java/Repository Hell.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Building Dynamic Queries with JPA Specification in Spring Boot"
+              "title": "Outgoing links from Repository Hell"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Medium/Java/Building Dynamic Queries with JPA Specification in Spring Boot.md",
+                "file": "General/Medium/Java/Repository Hell.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Building Dynamic Queries with JPA Specification in Spring Boot"
+              "title": "Outline of Repository Hell"
             }
           },
           {
@@ -205,10 +205,11 @@
   },
   "active": "5a71f40bea864a5b",
   "lastOpenFiles": [
+    "General/Medium/Java/Building Dynamic Queries with JPA Specification in Spring Boot.md",
+    "General/Medium/Java/Repository Hell.md",
     "General/Medium/Java/Building a Simple Blockchain in Java Understanding the Foundation of Cryptocurrency.md",
     "General/Medium/General/Prompts chatGpt.md",
     "TaskNotes/Views/kanban-default.base",
-    "General/Medium/Java/Building Dynamic Queries with JPA Specification in Spring Boot.md",
     "General/2025-12-08.md",
     "General/TaskNotes/Views/agenda-default.base",
     "General/TaskNotes/Views/kanban-default.base",
