@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Medium/Java/I Wasted 5 Years Writing SQL Wrong.md",
-                "mode": "preview",
+                "file": "General/Medium/Cobol/I Lived with a Tribe of COBOL Programmers.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I Wasted 5 Years Writing SQL Wrong"
+              "title": "I Lived with a Tribe of COBOL Programmers"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "General/Medium/Java/I Wasted 5 Years Writing SQL Wrong.md",
+                "file": "General/Medium/Cobol/I Lived with a Tribe of COBOL Programmers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for I Wasted 5 Years Writing SQL Wrong"
+              "title": "Backlinks for I Lived with a Tribe of COBOL Programmers"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "General/Medium/Java/I Wasted 5 Years Writing SQL Wrong.md",
+                "file": "General/Medium/Cobol/I Lived with a Tribe of COBOL Programmers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from I Wasted 5 Years Writing SQL Wrong"
+              "title": "Outgoing links from I Lived with a Tribe of COBOL Programmers"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "General/Medium/Java/I Wasted 5 Years Writing SQL Wrong.md",
+                "file": "General/Medium/Cobol/I Lived with a Tribe of COBOL Programmers.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of I Wasted 5 Years Writing SQL Wrong"
+              "title": "Outline of I Lived with a Tribe of COBOL Programmers"
             }
           },
           {
@@ -205,9 +205,11 @@
   },
   "active": "5a71f40bea864a5b",
   "lastOpenFiles": [
+    "General/Medium/Java/I Wasted 5 Years Writing SQL Wrong.md",
+    "General/Medium/Cobol/I Lived with a Tribe of COBOL Programmers.md",
+    "General/Medium/Cobol",
     "General/Medium/Java/Repository Hell.md",
     "General/Medium/Java/Rule Engine in Java.md",
-    "General/Medium/Java/I Wasted 5 Years Writing SQL Wrong.md",
     "General/Medium/Java/pattern.md",
     "General/Medium/Sql",
     "General/Medium/Java/Building Dynamic Queries with JPA Specification in Spring Boot.md",
@@ -222,7 +224,6 @@
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/calendar-default.base",
-    "TaskNotes/Views/tasks-default.base",
-    "TaskNotes/Views/mini-calendar-default.base"
+    "TaskNotes/Views/tasks-default.base"
   ]
 }
