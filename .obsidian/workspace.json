@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Medium/Mac/Apples Native Containers Explained for Beginners.md",
+                "file": "General/Medium/Java/The 6 Most Common Design Patterns in Java Projects.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apples Native Containers Explained for Beginners"
+              "title": "The 6 Most Common Design Patterns in Java Projects"
             }
           }
         ]
@@ -205,8 +205,9 @@
   },
   "active": "5a71f40bea864a5b",
   "lastOpenFiles": [
-    "General/Medium/Java/If You Still Use CRUD APIs in 2025.md",
     "General/Medium/Mac/Apples Native Containers Explained for Beginners.md",
+    "General/Medium/Java/The 6 Most Common Design Patterns in Java Projects.md",
+    "General/Medium/Java/If You Still Use CRUD APIs in 2025.md",
     "General/Medium/Mac",
     "General/Medium/Java/I Wasted 5 Years Writing SQL Wrong.md",
     "General/Medium/Cobol/I Lived with a Tribe of COBOL Programmers.md",
