@@ -11,14 +11,13 @@
             "id": "5a71f40bea864a5b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "General/Medium/Java/Top 21 Java 21 Features I Use Daily as a Backend Developer in 2025.md",
-                "mode": "source",
-                "source": false
+                "file": "TaskNotes/Views/tasks-default.base",
+                "viewName": "All Tasks"
               },
-              "icon": "lucide-file",
-              "title": "Top 21 Java 21 Features I Use Daily as a Backend Developer in 2025"
+              "icon": "lucide-layout-list",
+              "title": "tasks-default"
             }
           }
         ]
@@ -171,8 +170,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -205,8 +204,8 @@
   },
   "active": "5a71f40bea864a5b",
   "lastOpenFiles": [
-    "General/Medium/Java/The 6 Most Common Design Patterns in Java Projects.md",
     "General/Medium/Java/Top 21 Java 21 Features I Use Daily as a Backend Developer in 2025.md",
+    "General/Medium/Java/The 6 Most Common Design Patterns in Java Projects.md",
     "General/Medium/Mac/Apples Native Containers Explained for Beginners.md",
     "General/Medium/Java/If You Still Use CRUD APIs in 2025.md",
     "General/Medium/Mac",
