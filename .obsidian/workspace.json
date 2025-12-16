@@ -11,13 +11,14 @@
             "id": "5a71f40bea864a5b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "TaskNotes/Views/tasks-default.base",
-                "viewName": "All Tasks"
+                "file": "General/Medium/Java/I Wasted 5 Years Writing SQL Wrong.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-layout-list",
-              "title": "tasks-default"
+              "icon": "lucide-file",
+              "title": "I Wasted 5 Years Writing SQL Wrong"
             }
           }
         ]
@@ -204,30 +205,32 @@
   },
   "active": "5a71f40bea864a5b",
   "lastOpenFiles": [
+    "General/Medium/Mac/Apples Native Containers Explained for Beginners.md",
+    "General/Medium/General/What is the Right Way to Design REST APIs in Java.md",
+    "General/Medium/General/Prompts chatGpt.md",
+    "General/Medium/Cobol/I Lived with a Tribe of COBOL Programmers.md",
+    "General/Work/Consultas/Padrones/Gases/Omisos.md",
+    "General/2025-12-08.md",
+    "General/Welcome.md",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views/relationships.base",
+    "TaskNotes/Views/kanban-default.base",
+    "TaskNotes/Views/tasks-default.base",
     "General/Medium/Java/Top 21 Java 21 Features I Use Daily as a Backend Developer in 2025.md",
     "General/Medium/Java/The 6 Most Common Design Patterns in Java Projects.md",
-    "General/Medium/Mac/Apples Native Containers Explained for Beginners.md",
     "General/Medium/Java/If You Still Use CRUD APIs in 2025.md",
     "General/Medium/Mac",
     "General/Medium/Java/I Wasted 5 Years Writing SQL Wrong.md",
-    "General/Medium/Cobol/I Lived with a Tribe of COBOL Programmers.md",
-    "General/Medium/General/What is the Right Way to Design REST APIs in Java.md",
     "General/Medium/Java/Building a Simple Blockchain in Java Understanding the Foundation of Cryptocurrency.md",
     "General/Medium/Java/Building Dynamic Queries with JPA Specification in Spring Boot.md",
-    "General/Medium/General/Prompts chatGpt.md",
     "General/Medium/Java/Rule Engine in Java.md",
     "General/Medium/Java/Repository Hell.md",
     "General/Medium/Cobol",
     "General/Medium/Java/pattern.md",
     "General/Medium/Sql",
-    "TaskNotes/Views/kanban-default.base",
-    "General/2025-12-08.md",
     "General/TaskNotes/Views/agenda-default.base",
-    "General/TaskNotes/Views/kanban-default.base",
-    "General/TaskNotes/Tasks/Comenzar cambios del paquete.md",
-    "General/TaskNotes/Views/tasks-default.base",
-    "TaskNotes/Views/relationships.base",
-    "TaskNotes/Views/agenda-default.base",
-    "TaskNotes/Views/calendar-default.base"
+    "General/TaskNotes/Tasks/Comenzar cambios del paquete.md"
   ]
 }
