@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "I Wasted 5 Years Writing SQL Wrong"
             }
+          },
+          {
+            "id": "005dfde1ab155429",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -203,8 +218,22 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "5a71f40bea864a5b",
+  "active": "005dfde1ab155429",
   "lastOpenFiles": [
+    "General/Medium/Java/I Wasted 5 Years Writing SQL Wrong.md",
+    "conflict-files-obsidian-git.md",
+    "General/Medium/Java/What Senior Java Developers Actually Do The Exception Handling Patterns 99% Get Wrong.md",
+    "General/Medium/Java/Everything You Must Know about Decorator Design Pattern in Java.md",
+    "General/Medium/Java/Every Java Developer Claims to Know OOP.md",
+    "General/Medium/Java/5 Powerful Enum-Based Patterns in Java.md",
+    "General/Medium/Git/Git Like a Pro.md",
+    "General/Medium/Git/20 Git Command-Line Tricks Every Developer Should Know.md",
+    "General/Medium/Git",
+    "General/Medium/General/The ChatGPT Prompt That Writes Better Code Than 97% of Senior Developers.md",
+    "General/Medium/General/My Client Refused to Pay $180 Hour — So I Billed Them $8K for Three Architecture Decisions Instead.md",
+    "General/Medium/General/How to Log 1M Events Sec Without Slowing Down Your System.md",
+    "General/Medium/General/From Chaos to Clarity.md",
+    "General/Medium/General/10 Terminal Tricks to Supercharge Your Developer Workflow.md",
     "General/Medium/Mac/Apples Native Containers Explained for Beginners.md",
     "General/Medium/General/What is the Right Way to Design REST APIs in Java.md",
     "General/Medium/General/Prompts chatGpt.md",
@@ -222,15 +251,10 @@
     "General/Medium/Java/The 6 Most Common Design Patterns in Java Projects.md",
     "General/Medium/Java/If You Still Use CRUD APIs in 2025.md",
     "General/Medium/Mac",
-    "General/Medium/Java/I Wasted 5 Years Writing SQL Wrong.md",
     "General/Medium/Java/Building a Simple Blockchain in Java Understanding the Foundation of Cryptocurrency.md",
     "General/Medium/Java/Building Dynamic Queries with JPA Specification in Spring Boot.md",
     "General/Medium/Java/Rule Engine in Java.md",
-    "General/Medium/Java/Repository Hell.md",
     "General/Medium/Cobol",
-    "General/Medium/Java/pattern.md",
-    "General/Medium/Sql",
-    "General/TaskNotes/Views/agenda-default.base",
-    "General/TaskNotes/Tasks/Comenzar cambios del paquete.md"
+    "General/Medium/Sql"
   ]
 }
