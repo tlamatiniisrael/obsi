@@ -20,8 +20,23 @@
               "icon": "diff",
               "title": "Diff: workspace.json"
             }
+          },
+          {
+            "id": "7b57055ebf6e0989",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -202,8 +217,9 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "5a71f40bea864a5b",
+  "active": "7b57055ebf6e0989",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "General/Work/Consultas/Padrones/Gases/Omisos.md",
     "General/Medium/Git/Git Like a Pro.md",
     "General/Medium/General/10 Terminal Tricks to Supercharge Your Developer Workflow.md",
@@ -211,7 +227,6 @@
     "General/Medium/Java/Every Java Developer Claims to Know OOP.md",
     "General/Medium/General/From Chaos to Clarity.md",
     "General/Medium/Java/I Wasted 5 Years Writing SQL Wrong.md",
-    "conflict-files-obsidian-git.md",
     "General/Medium/Java/What Senior Java Developers Actually Do The Exception Handling Patterns 99% Get Wrong.md",
     "General/Medium/Java/Everything You Must Know about Decorator Design Pattern in Java.md",
     "General/Medium/Git/20 Git Command-Line Tricks Every Developer Should Know.md",
