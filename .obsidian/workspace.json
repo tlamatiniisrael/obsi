@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b18d3055ff584af9",
+        "id": "ff1570bfc720b2e9",
         "type": "tabs",
         "children": [
           {
-            "id": "5a71f40bea864a5b",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
-          },
-          {
-            "id": "7b57055ebf6e0989",
+            "id": "25f8b36a9846d246",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
@@ -35,8 +21,7 @@
               "title": "Diff: workspace.json"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,8 +202,9 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "7b57055ebf6e0989",
+  "active": "25f8b36a9846d246",
   "lastOpenFiles": [
+    "General/Medium/Mac/Apples Native Containers Explained for Beginners.md",
     "conflict-files-obsidian-git.md",
     "General/Work/Consultas/Padrones/Gases/Omisos.md",
     "General/Medium/Git/Git Like a Pro.md",
@@ -234,7 +220,6 @@
     "General/Medium/General/The ChatGPT Prompt That Writes Better Code Than 97% of Senior Developers.md",
     "General/Medium/General/My Client Refused to Pay $180 Hour — So I Billed Them $8K for Three Architecture Decisions Instead.md",
     "General/Medium/General/How to Log 1M Events Sec Without Slowing Down Your System.md",
-    "General/Medium/Mac/Apples Native Containers Explained for Beginners.md",
     "General/Medium/General/What is the Right Way to Design REST APIs in Java.md",
     "General/Medium/General/Prompts chatGpt.md",
     "General/Medium/Cobol/I Lived with a Tribe of COBOL Programmers.md",
