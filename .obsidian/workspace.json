@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ff1570bfc720b2e9",
+        "id": "f9ab39dd781276bb",
         "type": "tabs",
         "children": [
           {
-            "id": "25f8b36a9846d246",
+            "id": "1a01a87f818e2c81",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "General/2025-12-08.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "2025-12-08"
             }
           }
         ]
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,9 +203,12 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "25f8b36a9846d246",
+  "active": "1a01a87f818e2c81",
   "lastOpenFiles": [
     "General/Medium/Mac/Apples Native Containers Explained for Beginners.md",
+    "General/2025-12-08.md",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/tasks-default.base",
     "conflict-files-obsidian-git.md",
     "General/Work/Consultas/Padrones/Gases/Omisos.md",
     "General/Medium/Git/Git Like a Pro.md",
@@ -223,21 +227,17 @@
     "General/Medium/General/What is the Right Way to Design REST APIs in Java.md",
     "General/Medium/General/Prompts chatGpt.md",
     "General/Medium/Cobol/I Lived with a Tribe of COBOL Programmers.md",
-    "General/2025-12-08.md",
     "General/Welcome.md",
     "TaskNotes/Views/agenda-default.base",
-    "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/kanban-default.base",
-    "TaskNotes/Views/tasks-default.base",
     "General/Medium/Java/Top 21 Java 21 Features I Use Daily as a Backend Developer in 2025.md",
     "General/Medium/Java/The 6 Most Common Design Patterns in Java Projects.md",
     "General/Medium/Java/If You Still Use CRUD APIs in 2025.md",
     "General/Medium/Mac",
     "General/Medium/Java/Building a Simple Blockchain in Java Understanding the Foundation of Cryptocurrency.md",
     "General/Medium/Java/Building Dynamic Queries with JPA Specification in Spring Boot.md",
-    "General/Medium/Java/Rule Engine in Java.md",
     "General/Medium/Cobol",
     "General/Medium/Sql"
   ]
