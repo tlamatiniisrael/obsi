@@ -81,14 +81,14 @@
             "id": "c4fb0b8d4e862b23",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "General/Medium/Java/I Wasted 5 Years Writing SQL Wrong.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "I Wasted 5 Years Writing SQL Wrong"
             }
           }
         ],
@@ -251,7 +251,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -275,8 +276,10 @@
   },
   "active": "c4fb0b8d4e862b23",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "General/Medium/Java/Rule Engine in Java.md",
+    "General/Medium/Java/Repository Hell.md",
     "General/Medium/Mac/The Guide To Writing Clean SwiftUI.md",
+    "conflict-files-obsidian-git.md",
     "General/Medium/Sql/The Secret SQL Optimization Techniques That 99% of Developers Still Don’t Know in 2025.md",
     "General/Medium/Sql/SQL Common Table Expressions (CTE) A Practical Guide.md",
     "General/Medium/Sql/How to Write SQL Queries That Understand How the Compiler Translates AST to Logical and Physical Plans.md",
@@ -289,7 +292,6 @@
     "General/Medium/Git/20 Git Command-Line Tricks Every Developer Should Know.md",
     "General/Medium/Sql/This SQL Question Exposes Fake Senior Developers (Most People Get It Wrong).md",
     "General/Medium/Java/What Senior Java Developers Actually Do The Exception Handling Patterns 99% Get Wrong.md",
-    "General/Medium/Java/Rule Engine in Java.md",
     "General/Medium/Git/Git Like a Pro.md",
     "General/Medium/General/10 Terminal Tricks to Supercharge Your Developer Workflow.md",
     "General/Medium/Java/5 Powerful Enum-Based Patterns in Java.md",
@@ -301,7 +303,6 @@
     "General/Medium/Cobol/I Lived with a Tribe of COBOL Programmers.md",
     "General/Medium/General/From Chaos to Clarity.md",
     "General/Medium/Git",
-    "General/Medium/Java/I Wasted 5 Years Writing SQL Wrong.md",
     "General/Medium/Mac",
     "General/Medium/Cobol",
     "General/Medium/Sql",
