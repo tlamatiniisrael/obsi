@@ -20,8 +20,65 @@
               "icon": "lucide-file",
               "title": "The Secret SQL Optimization Techniques That 99% of Developers Still Don’t Know in 2025"
             }
+          },
+          {
+            "id": "87f30065041d7e53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/Medium/Mac/Mac Commands Every User Should Know (But Most Don’t).md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mac Commands Every User Should Know (But Most Don’t)"
+            }
+          },
+          {
+            "id": "ae98a13ab83be8ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/Medium/Mac/The Guide To Writing Clean SwiftUI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Guide To Writing Clean SwiftUI"
+            }
+          },
+          {
+            "id": "d38cc2cb7bcf85a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/Medium/Git/7 Git Mistakes Even Senior Engineers Make (And How to Fix Them).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7 Git Mistakes Even Senior Engineers Make (And How to Fix Them)"
+            }
+          },
+          {
+            "id": "bc711c7209f32427",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "General/Medium/Mac/The Guide To Writing Clean SwiftUI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Guide To Writing Clean SwiftUI"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -180,8 +237,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -203,12 +259,20 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "5a71f40bea864a5b",
+  "active": "bc711c7209f32427",
   "lastOpenFiles": [
-    "General/Medium/Git/20 Git Command-Line Tricks Every Developer Should Know.md",
+    "conflict-files-obsidian-git.md",
     "General/Medium/Sql/The Secret SQL Optimization Techniques That 99% of Developers Still Don’t Know in 2025.md",
     "General/Medium/Sql/SQL Common Table Expressions (CTE) A Practical Guide.md",
     "General/Medium/Sql/How to Write SQL Queries That Understand How the Compiler Translates AST to Logical and Physical Plans.md",
+    "General/Medium/General/Rethinking Text-to-SQL Why Dynamic Multi-Turn Benchmarks Change Everything.md",
+    "General/Medium/Git/7 Git Mistakes Even Senior Engineers Make (And How to Fix Them).md",
+    "General/Medium/Java/10 Java 21 Features That Will Change How You Write Code Forever (With Examples).md",
+    "General/Medium/Git/10 Git Tricks That Turned Me From “That Guy Who Breaks Main” Into the Team’s Secret Weapon.md",
+    "General/Medium/Sql/10 SQL Window Functions Every App Dev Should Know.md",
+    "General/Medium/Mac/The Guide To Writing Clean SwiftUI.md",
+    "General/Medium/Mac/Mac Commands Every User Should Know (But Most Don’t).md",
+    "General/Medium/Git/20 Git Command-Line Tricks Every Developer Should Know.md",
     "General/Medium/Sql/This SQL Question Exposes Fake Senior Developers (Most People Get It Wrong).md",
     "General/Medium/Java/What Senior Java Developers Actually Do The Exception Handling Patterns 99% Get Wrong.md",
     "General/Medium/Java/Rule Engine in Java.md",
@@ -216,7 +280,6 @@
     "General/Medium/General/10 Terminal Tricks to Supercharge Your Developer Workflow.md",
     "General/Medium/Java/5 Powerful Enum-Based Patterns in Java.md",
     "General/Medium/General/My Client Refused to Pay $180 Hour — So I Billed Them $8K for Three Architecture Decisions Instead.md",
-    "conflict-files-obsidian-git.md",
     "General/Medium/General/The ChatGPT Prompt That Writes Better Code Than 97% of Senior Developers.md",
     "General/Medium/General/How to Log 1M Events Sec Without Slowing Down Your System.md",
     "General/Medium/Java/Everything You Must Know about Decorator Design Pattern in Java.md",
@@ -225,14 +288,7 @@
     "General/Medium/General/From Chaos to Clarity.md",
     "General/Medium/Git",
     "General/Medium/Java/I Wasted 5 Years Writing SQL Wrong.md",
-    "General/Medium/Java/5 Powerful Enum-Based Patterns in J.md",
-    "General/Medium/Java/Top 21 Java 21 Features I Use Daily as a Backend Developer in 2025.md",
-    "General/Medium/Java/The 6 Most Common Design Patterns in Java Projects.md",
-    "General/Medium/Mac/Apples Native Containers Explained for Beginners.md",
-    "General/Medium/Java/If You Still Use CRUD APIs in 2025.md",
     "General/Medium/Mac",
-    "General/Medium/General/What is the Right Way to Design REST APIs in Java.md",
-    "General/Medium/Java/Building a Simple Blockchain in Java Understanding the Foundation of Cryptocurrency.md",
     "General/Medium/Cobol",
     "General/Medium/Sql",
     "TaskNotes/Views/kanban-default.base",
