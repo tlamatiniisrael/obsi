@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "The Guide To Writing Clean SwiftUI"
             }
+          },
+          {
+            "id": "c4fb0b8d4e862b23",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -259,9 +273,10 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "bc711c7209f32427",
+  "active": "c4fb0b8d4e862b23",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "General/Medium/Mac/The Guide To Writing Clean SwiftUI.md",
     "General/Medium/Sql/The Secret SQL Optimization Techniques That 99% of Developers Still Don’t Know in 2025.md",
     "General/Medium/Sql/SQL Common Table Expressions (CTE) A Practical Guide.md",
     "General/Medium/Sql/How to Write SQL Queries That Understand How the Compiler Translates AST to Logical and Physical Plans.md",
@@ -270,7 +285,6 @@
     "General/Medium/Java/10 Java 21 Features That Will Change How You Write Code Forever (With Examples).md",
     "General/Medium/Git/10 Git Tricks That Turned Me From “That Guy Who Breaks Main” Into the Team’s Secret Weapon.md",
     "General/Medium/Sql/10 SQL Window Functions Every App Dev Should Know.md",
-    "General/Medium/Mac/The Guide To Writing Clean SwiftUI.md",
     "General/Medium/Mac/Mac Commands Every User Should Know (But Most Don’t).md",
     "General/Medium/Git/20 Git Command-Line Tricks Every Developer Should Know.md",
     "General/Medium/Sql/This SQL Question Exposes Fake Senior Developers (Most People Get It Wrong).md",
