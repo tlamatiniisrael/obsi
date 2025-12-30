@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Medium/Java/I Wasted 5 Years Writing SQL Wrong.md",
+                "file": "General/Medium/Java/Building Dynamic Queries with JPA Specification in Spring Boot.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I Wasted 5 Years Writing SQL Wrong"
+              "title": "Building Dynamic Queries with JPA Specification in Spring Boot"
             }
           }
         ],
@@ -276,6 +276,7 @@
   },
   "active": "c4fb0b8d4e862b23",
   "lastOpenFiles": [
+    "General/Medium/Java/I Wasted 5 Years Writing SQL Wrong.md",
     "General/Medium/Java/Rule Engine in Java.md",
     "General/Medium/Java/Repository Hell.md",
     "General/Medium/Mac/The Guide To Writing Clean SwiftUI.md",
@@ -301,7 +302,6 @@
     "General/Medium/Java/Everything You Must Know about Decorator Design Pattern in Java.md",
     "General/Medium/Java/Every Java Developer Claims to Know OOP.md",
     "General/Medium/Cobol/I Lived with a Tribe of COBOL Programmers.md",
-    "General/Medium/General/From Chaos to Clarity.md",
     "General/Medium/Git",
     "General/Medium/Mac",
     "General/Medium/Cobol",
