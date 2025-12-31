@@ -194,5 +194,9 @@ HTMX doesn’t just make web development easier — it makes it _beautiful_ ag
 Because sometimes, progress doesn’t mean adding more.  
 It means remembering what made it great in the first place.
 
+
 $x = { -b \pm \sqrt{b^2-4ac}  \over 2a}$
 
+
+
+![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
