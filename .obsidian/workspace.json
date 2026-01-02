@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Medium/Htmx/HTMX Made Me Like the Web Again.md",
-                "mode": "source",
+                "file": "General/Medium/Java/7 Ways to Write Files in Java — From Classic IO to Modern NIO.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTMX Made Me Like the Web Again"
+              "title": "7 Ways to Write Files in Java — From Classic IO to Modern NIO"
             }
           }
         ],
@@ -304,16 +304,17 @@
   },
   "active": "27974c94029da81c",
   "lastOpenFiles": [
-    "General/Medium/Htmx/Getting Started with HTMX Your Journey to Simpler Web Development.md",
+    "General/Medium/Sql/10 SQL Window Functions Every App Dev Should Know.md",
+    "General/Medium/Swift/SwiftUI in 2025 Forget MVVM.md",
+    "General/Medium/Swift/Build a SwiftUI Animal Crossing Application (Part 1).md",
     "General/Medium/Htmx/HTMX Made Me Like the Web Again.md",
+    "General/Medium/Htmx/Getting Started with HTMX Your Journey to Simpler Web Development.md",
     "General/Medium/Htmx/The Case for HTMX Rethinking Modern Web Architecture.md",
     "General/Medium/Htmx/I Replaced My 50MB JavaScript Bundle With HTMX. No One Noticed — Except My Lighthouse Score.md",
     "General/Medium/Htmx/I Replaced 10,000 Lines of JavaScript With HTMX — And Everything Got Faster.md",
     "General/Medium/Htmx/HTMX Took A Weekend To Learn And Quietly Replaced Our React Frontend.md",
     "General/Medium/Java/7 Ways to Write Files in Java — From Classic IO to Modern NIO.md",
-    "General/Medium/Swift/SwiftUI in 2025 Forget MVVM.md",
     "General/Medium/Swift/Build a SwiftUI Animal Crossing Application (Part 2).md",
-    "General/Medium/Swift/Build a SwiftUI Animal Crossing Application (Part 1).md",
     "General/Medium/Swift",
     "General/Medium/Java/Building Dynamic Queries with JPA Specification in Spring Boot.md",
     "General/Medium/Htmx",
@@ -329,7 +330,6 @@
     "General/Medium/Git/7 Git Mistakes Even Senior Engineers Make (And How to Fix Them).md",
     "General/Medium/Java/10 Java 21 Features That Will Change How You Write Code Forever (With Examples).md",
     "General/Medium/Git/10 Git Tricks That Turned Me From “That Guy Who Breaks Main” Into the Team’s Secret Weapon.md",
-    "General/Medium/Sql/10 SQL Window Functions Every App Dev Should Know.md",
     "General/Medium/Mac/Mac Commands Every User Should Know (But Most Don’t).md",
     "General/Medium/Git/20 Git Command-Line Tricks Every Developer Should Know.md",
     "General/Medium/Git",
