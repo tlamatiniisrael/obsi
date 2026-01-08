@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Medium/Mac/7 AI Apps to Turn Your Mac Into Your Second Brain.md",
+                "file": "General/Medium/Java/Rule Engine in Java.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 AI Apps to Turn Your Mac Into Your Second Brain"
+              "title": "Rule Engine in Java"
             }
           }
         ],
@@ -304,8 +304,11 @@
   },
   "active": "27974c94029da81c",
   "lastOpenFiles": [
-    "General/Medium/Java/I Wasted 5 Years Writing SQL Wrong.md",
+    "General/Medium/Java/Everything You Must Know about Decorator Design Pattern in Java.md",
+    "General/Medium/General/Stop Making These 5 Beginner Mistakes When Naming Files and Directories.md",
+    "General/Medium/General/If You Don’t Know These 16 System Design Concepts, You’re Not Senior Yet.md",
     "General/Medium/Mac/7 AI Apps to Turn Your Mac Into Your Second Brain.md",
+    "General/Medium/Java/I Wasted 5 Years Writing SQL Wrong.md",
     "General/Medium/Java/7 Ways to Write Files in Java — From Classic IO to Modern NIO.md",
     "General/Medium/Sql/10 SQL Window Functions Every App Dev Should Know.md",
     "General/Medium/Swift/SwiftUI in 2025 Forget MVVM.md",
@@ -329,9 +332,6 @@
     "General/Medium/Sql/How to Write SQL Queries That Understand How the Compiler Translates AST to Logical and Physical Plans.md",
     "General/Medium/General/Rethinking Text-to-SQL Why Dynamic Multi-Turn Benchmarks Change Everything.md",
     "General/Medium/Git/7 Git Mistakes Even Senior Engineers Make (And How to Fix Them).md",
-    "General/Medium/Java/10 Java 21 Features That Will Change How You Write Code Forever (With Examples).md",
-    "General/Medium/Git/10 Git Tricks That Turned Me From “That Guy Who Breaks Main” Into the Team’s Secret Weapon.md",
-    "General/Medium/Mac/Mac Commands Every User Should Know (But Most Don’t).md",
     "General/Medium/Git",
     "General/Medium/Mac",
     "General/Medium/Cobol",
