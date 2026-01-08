@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Medium/Java/I Wasted 5 Years Writing SQL Wrong.md",
-                "mode": "preview",
+                "file": "General/Medium/Mac/7 AI Apps to Turn Your Mac Into Your Second Brain.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I Wasted 5 Years Writing SQL Wrong"
+              "title": "7 AI Apps to Turn Your Mac Into Your Second Brain"
             }
           }
         ],
@@ -304,6 +304,8 @@
   },
   "active": "27974c94029da81c",
   "lastOpenFiles": [
+    "General/Medium/Java/I Wasted 5 Years Writing SQL Wrong.md",
+    "General/Medium/Mac/7 AI Apps to Turn Your Mac Into Your Second Brain.md",
     "General/Medium/Java/7 Ways to Write Files in Java — From Classic IO to Modern NIO.md",
     "General/Medium/Sql/10 SQL Window Functions Every App Dev Should Know.md",
     "General/Medium/Swift/SwiftUI in 2025 Forget MVVM.md",
@@ -318,7 +320,6 @@
     "General/Medium/Swift",
     "General/Medium/Java/Building Dynamic Queries with JPA Specification in Spring Boot.md",
     "General/Medium/Htmx",
-    "General/Medium/Java/I Wasted 5 Years Writing SQL Wrong.md",
     "General/Medium/Java/Rule Engine in Java.md",
     "General/Medium/Java/Repository Hell.md",
     "General/Medium/Mac/The Guide To Writing Clean SwiftUI.md",
@@ -331,7 +332,6 @@
     "General/Medium/Java/10 Java 21 Features That Will Change How You Write Code Forever (With Examples).md",
     "General/Medium/Git/10 Git Tricks That Turned Me From “That Guy Who Breaks Main” Into the Team’s Secret Weapon.md",
     "General/Medium/Mac/Mac Commands Every User Should Know (But Most Don’t).md",
-    "General/Medium/Git/20 Git Command-Line Tricks Every Developer Should Know.md",
     "General/Medium/Git",
     "General/Medium/Mac",
     "General/Medium/Cobol",
