@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Medium/Java/Rule Engine in Java.md",
+                "file": "General/Medium/Mac/I Install These Three FREE Apps on Every Mac I Set Up.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rule Engine in Java"
+              "title": "I Install These Three FREE Apps on Every Mac I Set Up"
             }
           }
         ],
@@ -304,6 +304,9 @@
   },
   "active": "27974c94029da81c",
   "lastOpenFiles": [
+    "General/Medium/Mac/macOS Tahoe vs macOS Sequoia 8 Exciting Differences.md",
+    "General/Medium/Mac/I Install These Three FREE Apps on Every Mac I Set Up.md",
+    "General/Medium/Java/Rule Engine in Java.md",
     "General/Medium/Java/Everything You Must Know about Decorator Design Pattern in Java.md",
     "General/Medium/General/Stop Making These 5 Beginner Mistakes When Naming Files and Directories.md",
     "General/Medium/General/If You Don’t Know These 16 System Design Concepts, You’re Not Senior Yet.md",
@@ -323,15 +326,12 @@
     "General/Medium/Swift",
     "General/Medium/Java/Building Dynamic Queries with JPA Specification in Spring Boot.md",
     "General/Medium/Htmx",
-    "General/Medium/Java/Rule Engine in Java.md",
     "General/Medium/Java/Repository Hell.md",
     "General/Medium/Mac/The Guide To Writing Clean SwiftUI.md",
     "conflict-files-obsidian-git.md",
     "General/Medium/Sql/The Secret SQL Optimization Techniques That 99% of Developers Still Don’t Know in 2025.md",
     "General/Medium/Sql/SQL Common Table Expressions (CTE) A Practical Guide.md",
     "General/Medium/Sql/How to Write SQL Queries That Understand How the Compiler Translates AST to Logical and Physical Plans.md",
-    "General/Medium/General/Rethinking Text-to-SQL Why Dynamic Multi-Turn Benchmarks Change Everything.md",
-    "General/Medium/Git/7 Git Mistakes Even Senior Engineers Make (And How to Fix Them).md",
     "General/Medium/Git",
     "General/Medium/Mac",
     "General/Medium/Cobol",
