@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Medium/Mac/I Install These Three FREE Apps on Every Mac I Set Up.md",
-                "mode": "source",
+                "file": "General/Medium/Mac/Automate Your Mac A Beginner’s Guide to Working Smarter.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I Install These Three FREE Apps on Every Mac I Set Up"
+              "title": "Automate Your Mac A Beginner’s Guide to Working Smarter"
             }
           }
         ],
@@ -304,8 +304,10 @@
   },
   "active": "27974c94029da81c",
   "lastOpenFiles": [
-    "General/Medium/Mac/macOS Tahoe vs macOS Sequoia 8 Exciting Differences.md",
+    "General/Medium/Mac/I Bet You Didn’t Know Your Mac Can Do This.md",
+    "General/Medium/Mac/Automate Your Mac A Beginner’s Guide to Working Smarter.md",
     "General/Medium/Mac/I Install These Three FREE Apps on Every Mac I Set Up.md",
+    "General/Medium/Mac/macOS Tahoe vs macOS Sequoia 8 Exciting Differences.md",
     "General/Medium/Java/Rule Engine in Java.md",
     "General/Medium/Java/Everything You Must Know about Decorator Design Pattern in Java.md",
     "General/Medium/General/Stop Making These 5 Beginner Mistakes When Naming Files and Directories.md",
@@ -330,8 +332,6 @@
     "General/Medium/Mac/The Guide To Writing Clean SwiftUI.md",
     "conflict-files-obsidian-git.md",
     "General/Medium/Sql/The Secret SQL Optimization Techniques That 99% of Developers Still Don’t Know in 2025.md",
-    "General/Medium/Sql/SQL Common Table Expressions (CTE) A Practical Guide.md",
-    "General/Medium/Sql/How to Write SQL Queries That Understand How the Compiler Translates AST to Logical and Physical Plans.md",
     "General/Medium/Git",
     "General/Medium/Mac",
     "General/Medium/Cobol",
