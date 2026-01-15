@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/2025-12-08.md",
+                "file": "General/Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-12-08"
+              "title": "Welcome"
             }
           }
         ],
@@ -293,8 +293,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -316,8 +315,19 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "ac77df51fa3a8b37",
+  "active": "e951cc69a8bd04fc",
   "lastOpenFiles": [
+    "General/TaskNotes/Views/agenda-default.base",
+    "General/TaskNotes/Views/calendar-default.base",
+    "General/TaskNotes/Views/kanban-default.base",
+    "General/TaskNotes/Views/mini-calendar-default.base",
+    "General/TaskNotes/Views/relationships.base",
+    "General/TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/tasks-default.base",
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Views/calendar-default.base",
+    "General/TaskNotes/Tasks/Comenzar cambios del paquete.md",
+    "General/2025-12-08.md",
     "General/Welcome.md",
     "General/Medium/Java/Top 21 Java 21 Features I Use Daily as a Backend Developer in 2025.md",
     "General/Medium/Java/What Senior Java Developers Actually Do The Exception Handling Patterns 99% Get Wrong.md",
@@ -341,18 +351,7 @@
     "General/Medium/Sql/10 SQL Window Functions Every App Dev Should Know.md",
     "General/Medium/Swift/SwiftUI in 2025 Forget MVVM.md",
     "General/Medium/Swift/Build a SwiftUI Animal Crossing Application (Part 1).md",
-    "General/Medium/Htmx/HTMX Made Me Like the Web Again.md",
-    "General/Medium/Htmx/The Case for HTMX Rethinking Modern Web Architecture.md",
-    "General/Medium/Htmx/I Replaced My 50MB JavaScript Bundle With HTMX. No One Noticed — Except My Lighthouse Score.md",
     "General/Medium/Swift",
-    "General/Medium/Htmx",
-    "General/Medium/Git",
-    "General/Medium/Mac",
-    "General/Medium/Cobol",
-    "General/Medium/Sql",
-    "TaskNotes/Views/kanban-default.base",
-    "General/TaskNotes/Views/agenda-default.base",
-    "General/TaskNotes/Views/kanban-default.base",
-    "General/TaskNotes/Views/tasks-default.base"
+    "General/Medium/Htmx"
   ]
 }
