@@ -5,3 +5,5 @@
 /.obsidian/plugins/medium-importer/data.json
 
 /.obsidian/
+
+.DS_Store
