@@ -123,14 +123,14 @@
             "id": "ac77df51fa3a8b37",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "conflict-files-obsidian-git.md",
-                "bFile": "conflict-files-obsidian-git.md",
-                "aRef": ""
+                "file": "General/Medium/Java/What Senior Java Developers Actually Do The Exception Handling Patterns 99% Get Wrong.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: conflict-files-obsidian-git"
+              "icon": "lucide-file",
+              "title": "What Senior Java Developers Actually Do The Exception Handling Patterns 99% Get Wrong"
             }
           }
         ],
@@ -317,6 +317,7 @@
   },
   "active": "ac77df51fa3a8b37",
   "lastOpenFiles": [
+    "General/Medium/Htmx/Getting Started with HTMX Your Journey to Simpler Web Development.md",
     "conflict-files-obsidian-git.md",
     "General/Medium/General/Tiny Tools, Big Impact Free Developer Utilities That Save Hours Every Week.md",
     "General/Medium/Mac/The Free Tool That Replaces CleanMyMac, DaisyDisk, and AppCleaner.md",
@@ -337,7 +338,6 @@
     "General/Medium/Swift/SwiftUI in 2025 Forget MVVM.md",
     "General/Medium/Swift/Build a SwiftUI Animal Crossing Application (Part 1).md",
     "General/Medium/Htmx/HTMX Made Me Like the Web Again.md",
-    "General/Medium/Htmx/Getting Started with HTMX Your Journey to Simpler Web Development.md",
     "General/Medium/Htmx/The Case for HTMX Rethinking Modern Web Architecture.md",
     "General/Medium/Htmx/I Replaced My 50MB JavaScript Bundle With HTMX. No One Noticed — Except My Lighthouse Score.md",
     "General/Medium/Htmx/I Replaced 10,000 Lines of JavaScript With HTMX — And Everything Got Faster.md",
