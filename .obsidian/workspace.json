@@ -4,123 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "b18d3055ff584af9",
+        "id": "f9ab39dd781276bb",
         "type": "tabs",
         "children": [
           {
-            "id": "5a71f40bea864a5b",
+            "id": "1a01a87f818e2c81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "General/Medium/Sql/The Secret SQL Optimization Techniques That 99% of Developers Still Don’t Know in 2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Secret SQL Optimization Techniques That 99% of Developers Still Don’t Know in 2025"
-            }
-          },
-          {
-            "id": "87f30065041d7e53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Medium/Mac/Mac Commands Every User Should Know (But Most Don’t).md",
+                "file": "General/Medium/Git/Git Like a Pro.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mac Commands Every User Should Know (But Most Don’t)"
+              "title": "Git Like a Pro"
             }
           },
           {
-            "id": "ae98a13ab83be8ff",
+            "id": "aa709d3509ab389d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "General/Medium/Mac/The Guide To Writing Clean SwiftUI.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.11.4"
               },
-              "icon": "lucide-file",
-              "title": "The Guide To Writing Clean SwiftUI"
-            }
-          },
-          {
-            "id": "d38cc2cb7bcf85a0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Medium/Git/7 Git Mistakes Even Senior Engineers Make (And How to Fix Them).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7 Git Mistakes Even Senior Engineers Make (And How to Fix Them)"
-            }
-          },
-          {
-            "id": "bc711c7209f32427",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Medium/Mac/The Guide To Writing Clean SwiftUI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Guide To Writing Clean SwiftUI"
-            }
-          },
-          {
-            "id": "c4fb0b8d4e862b23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Medium/Java/Building Dynamic Queries with JPA Specification in Spring Boot.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Building Dynamic Queries with JPA Specification in Spring Boot"
-            }
-          },
-          {
-            "id": "8696fa11da355587",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Medium/Htmx/HTMX Took A Weekend To Learn And Quietly Replaced Our React Frontend.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HTMX Took A Weekend To Learn And Quietly Replaced Our React Frontend"
-            }
-          },
-          {
-            "id": "27974c94029da81c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "General/Medium/Mac/Automate Your Mac A Beginner’s Guide to Working Smarter.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Automate Your Mac A Beginner’s Guide to Working Smarter"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -302,43 +216,43 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "27974c94029da81c",
+  "active": "aa709d3509ab389d",
   "lastOpenFiles": [
+    "General/Medium/Git/7 Git Mistakes Even Senior Engineers Make (And How to Fix Them).md",
+    "General/2025-12-08.md",
+    "General/Medium/Swift/SwiftUI in 2025 Forget MVVM.md",
+    "General/Medium/Swift/Build a SwiftUI Animal Crossing Application (Part 2).md",
+    "General/Medium/Swift/Build a SwiftUI Animal Crossing Application (Part 1).md",
+    "General/Medium/Swift",
+    "General/Medium/Sql/This SQL Question Exposes Fake Senior Developers (Most People Get It Wrong).md",
+    "General/Medium/Sql/The Secret SQL Optimization Techniques That 99% of Developers Still Don’t Know in 2025.md",
+    "General/Medium/Sql/SQL Common Table Expressions (CTE) A Practical Guide.md",
+    "General/Medium/Sql/How to Write SQL Queries That Understand How the Compiler Translates AST to Logical and Physical Plans.md",
+    "General/Medium/Sql/10 SQL Window Functions Every App Dev Should Know.md",
+    "General/Medium/Sql",
+    "General/Medium/Mac/macOS Tahoe vs macOS Sequoia 8 Exciting Differences.md",
+    "General/Medium/Mac/The Guide To Writing Clean SwiftUI.md",
+    "General/Medium/Mac/Mac Commands Every User Should Know (But Most Don’t).md",
+    "General/Medium/Mac/I Install These Three FREE Apps on Every Mac I Set Up.md",
     "General/Medium/Mac/I Bet You Didn’t Know Your Mac Can Do This.md",
     "General/Medium/Mac/Automate Your Mac A Beginner’s Guide to Working Smarter.md",
-    "General/Medium/Mac/I Install These Three FREE Apps on Every Mac I Set Up.md",
-    "General/Medium/Mac/macOS Tahoe vs macOS Sequoia 8 Exciting Differences.md",
-    "General/Medium/Java/Rule Engine in Java.md",
-    "General/Medium/Java/Everything You Must Know about Decorator Design Pattern in Java.md",
-    "General/Medium/General/Stop Making These 5 Beginner Mistakes When Naming Files and Directories.md",
-    "General/Medium/General/If You Don’t Know These 16 System Design Concepts, You’re Not Senior Yet.md",
     "General/Medium/Mac/7 AI Apps to Turn Your Mac Into Your Second Brain.md",
-    "General/Medium/Java/I Wasted 5 Years Writing SQL Wrong.md",
     "General/Medium/Java/7 Ways to Write Files in Java — From Classic IO to Modern NIO.md",
-    "General/Medium/Sql/10 SQL Window Functions Every App Dev Should Know.md",
-    "General/Medium/Swift/SwiftUI in 2025 Forget MVVM.md",
-    "General/Medium/Swift/Build a SwiftUI Animal Crossing Application (Part 1).md",
-    "General/Medium/Htmx/HTMX Made Me Like the Web Again.md",
-    "General/Medium/Htmx/Getting Started with HTMX Your Journey to Simpler Web Development.md",
+    "General/Medium/Java/10 Java 21 Features That Will Change How You Write Code Forever (With Examples).md",
     "General/Medium/Htmx/The Case for HTMX Rethinking Modern Web Architecture.md",
     "General/Medium/Htmx/I Replaced My 50MB JavaScript Bundle With HTMX. No One Noticed — Except My Lighthouse Score.md",
     "General/Medium/Htmx/I Replaced 10,000 Lines of JavaScript With HTMX — And Everything Got Faster.md",
     "General/Medium/Htmx/HTMX Took A Weekend To Learn And Quietly Replaced Our React Frontend.md",
-    "General/Medium/Swift/Build a SwiftUI Animal Crossing Application (Part 2).md",
-    "General/Medium/Swift",
-    "General/Medium/Java/Building Dynamic Queries with JPA Specification in Spring Boot.md",
+    "General/Medium/Htmx/HTMX Made Me Like the Web Again.md",
+    "General/Medium/Htmx/Getting Started with HTMX Your Journey to Simpler Web Development.md",
     "General/Medium/Htmx",
-    "General/Medium/Java/Repository Hell.md",
-    "General/Medium/Mac/The Guide To Writing Clean SwiftUI.md",
-    "conflict-files-obsidian-git.md",
-    "General/Medium/Sql/The Secret SQL Optimization Techniques That 99% of Developers Still Don’t Know in 2025.md",
+    "General/Medium/Git/10 Git Tricks That Turned Me From “That Guy Who Breaks Main” Into the Team’s Secret Weapon.md",
+    "TaskNotes/Views/calendar-default.base",
+    "TaskNotes/Views/tasks-default.base",
     "General/Medium/Git",
-    "General/Medium/Mac",
-    "General/Medium/Cobol",
-    "General/Medium/Sql",
-    "TaskNotes/Views/kanban-default.base",
-    "General/TaskNotes/Views/agenda-default.base",
-    "General/TaskNotes/Views/kanban-default.base",
-    "General/TaskNotes/Views/tasks-default.base"
+    "TaskNotes/Views/agenda-default.base",
+    "TaskNotes/Views/mini-calendar-default.base",
+    "TaskNotes/Views/relationships.base",
+    "TaskNotes/Views/kanban-default.base"
   ]
 }
