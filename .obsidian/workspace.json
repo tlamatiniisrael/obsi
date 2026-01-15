@@ -25,12 +25,14 @@
             "id": "aa709d3509ab389d",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "General/Medium/Mac/The Free Tool That Replaces CleanMyMac, DaisyDisk, and AppCleaner.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "icon": "lucide-file",
+              "title": "The Free Tool That Replaces CleanMyMac, DaisyDisk, and AppCleaner"
             }
           }
         ],
@@ -91,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "5f6772550f02944f",
@@ -193,8 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -216,8 +218,11 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "aa709d3509ab389d",
+  "active": "fa02d423e0f5d59f",
   "lastOpenFiles": [
+    "General/Medium/Mac/Master Your Mac Workflow Instantly Switch Contexts.md",
+    "General/Medium/Mac/The Free Tool That Replaces CleanMyMac, DaisyDisk, and AppCleaner.md",
+    "General/Medium/Git/A Complete Guide to Temporarily Saving Your Work With Git Stash.md",
     "General/Medium/Git/7 Git Mistakes Even Senior Engineers Make (And How to Fix Them).md",
     "General/2025-12-08.md",
     "General/Medium/Swift/SwiftUI in 2025 Forget MVVM.md",
@@ -243,10 +248,7 @@
     "General/Medium/Htmx/I Replaced My 50MB JavaScript Bundle With HTMX. No One Noticed — Except My Lighthouse Score.md",
     "General/Medium/Htmx/I Replaced 10,000 Lines of JavaScript With HTMX — And Everything Got Faster.md",
     "General/Medium/Htmx/HTMX Took A Weekend To Learn And Quietly Replaced Our React Frontend.md",
-    "General/Medium/Htmx/HTMX Made Me Like the Web Again.md",
-    "General/Medium/Htmx/Getting Started with HTMX Your Journey to Simpler Web Development.md",
     "General/Medium/Htmx",
-    "General/Medium/Git/10 Git Tricks That Turned Me From “That Guy Who Breaks Main” Into the Team’s Secret Weapon.md",
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/tasks-default.base",
     "General/Medium/Git",
