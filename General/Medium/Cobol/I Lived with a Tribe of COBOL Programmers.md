@@ -107,7 +107,7 @@ Before you add another dependency, ask: “Do I really need this?” Before you 
 
 ## Code Example: COBOL vs Modern Thinking
 
-```javascript
+```cobol
 // COBOL mindset in JavaScript  
 /**  
  * Calculates monthly payment for fixed-rate loan  
